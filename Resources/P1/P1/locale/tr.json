@@ -1,0 +1,7 @@
+{
+	signUp: 'Kayit Ol',
+	username: 'Kullanici Adi',
+	email: 'Eposta'
+	password: '$ifre',
+	passwordRepeat: '$ifre Tekrari'
+}
